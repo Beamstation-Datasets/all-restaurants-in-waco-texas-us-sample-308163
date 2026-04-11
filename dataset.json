@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Waco, Texas with a population of over 138k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Waco, Texas, US",
+  "export_job_id": "fd7c9fa3-1bb5-4073-8a3f-28c5cc2a8967",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 308163,
+  "location_name": "Waco",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-waco-texas-us-sample-308163",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/308163/beamstation_308163_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.47,
+  "sample_records": 16,
+  "sample_sha256": "858e9cea3dbd43ea859d484c9f2ed8a161c8baa9e47abc24da9a2213c8d21f98",
+  "sample_size_bytes": 79989,
+  "total_records": 169,
+  "updated_at": "2026-03-31T13:09:59.856435+00:00"
+}
