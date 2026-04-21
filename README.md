@@ -9,9 +9,9 @@
 | Dataset ID | `308163` |
 | Location | Waco |
 | Category | Restaurants |
-| Full dataset size | 331 records |
-| Free sample size | 33 records (9.97%) |
-| Last export | 2026-04-14T13:28:40.041346+00:00 |
+| Full dataset size | 339 records |
+| Free sample size | 33 records (9.73%) |
+| Last export | 2026-04-21T14:28:15.191012+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-waco-texas-us-sample-308163/releases/download/sample-latest/beamstation_308163_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
