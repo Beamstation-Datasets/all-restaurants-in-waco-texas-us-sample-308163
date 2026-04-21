@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Waco, Texas with a population of over 138k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Waco, Texas, US",
-  "export_job_id": "f6e4b221-b97b-4c82-8d6d-2d5da313cc80",
+  "export_job_id": "078787c2-4650-402a-ba97-c4c82bf0cdf9",
   "github_org": "Beamstation-Datasets",
   "id_short": 308163,
   "location_name": "Waco",
   "location_type": "city",
   "repo_name": "all-restaurants-in-waco-texas-us-sample-308163",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/308163/beamstation_308163_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.97,
+  "sample_pct": 9.73,
   "sample_records": 33,
-  "sample_sha256": "df52896575598c6e11e0dfc1a8f62406e9ee38071e680b0dfa8ffee78b834b7c",
-  "sample_size_bytes": 77344,
-  "total_records": 331,
-  "updated_at": "2026-04-14T13:28:40.041346+00:00"
+  "sample_sha256": "912cadb4b44fcd69965453f9a244c14d0c6e0f38450713ca0abaed7c7e55581b",
+  "sample_size_bytes": 90437,
+  "total_records": 339,
+  "updated_at": "2026-04-21T14:28:15.191012+00:00"
 }
